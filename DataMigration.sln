@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31501.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMigration.Data", "DataMigration.Data\DataMigration.Data.csproj", "{C8912282-B32A-4EC8-A564-887BFD2661F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMigration.Scheduler", "DataMigration.Scheduler\DataMigration.Scheduler.csproj", "{AA846A84-E322-4278-B078-A6DD642A53B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8912282-B32A-4EC8-A564-887BFD2661F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8912282-B32A-4EC8-A564-887BFD2661F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8912282-B32A-4EC8-A564-887BFD2661F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8912282-B32A-4EC8-A564-887BFD2661F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA846A84-E322-4278-B078-A6DD642A53B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA846A84-E322-4278-B078-A6DD642A53B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA846A84-E322-4278-B078-A6DD642A53B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA846A84-E322-4278-B078-A6DD642A53B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7B7EE64-F094-45D8-8519-7D3E4EB67099}
+	EndGlobalSection
+EndGlobal

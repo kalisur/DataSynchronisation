@@ -1,0 +1,17 @@
+{
+
+  "departments": [
+    {
+      "GLDepartmentCode": "00888",
+      "GLDepartmentDescription": "CEO-Balance Sheet_Tax Related Testing"
+    },
+    {
+      "GLDepartmentCode": "00920",
+      "GLDepartmentDescription": "LOG-Balance Sheet - VHDC Testing"
+    },
+    {
+      "GLDepartmentCode": "00927",
+      "GLDepartmentDescription": "LOG-Balance Sheet Repo"
+    }
+  ]
+}

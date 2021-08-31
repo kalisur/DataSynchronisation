@@ -1,0 +1,16 @@
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\bin\Debug\net5.0\DataMigration.Data.deps.json
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\bin\Debug\net5.0\DataMigration.Data.runtimeconfig.json
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\bin\Debug\net5.0\DataMigration.Data.runtimeconfig.dev.json
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\bin\Debug\net5.0\DataMigration.Data.dll
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\bin\Debug\net5.0\ref\DataMigration.Data.dll
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\bin\Debug\net5.0\DataMigration.Data.pdb
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.csprojAssemblyReference.cache
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.AssemblyInfoInputs.cache
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.AssemblyInfo.cs
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.csproj.CoreCompileInputs.cache
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.dll
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\ref\DataMigration.Data.dll
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.pdb
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.genruntimeconfig.cache
+C:\Users\kalisur\Desktop\Job\DataMigration.Data\bin\Debug\net5.0\DataMigration.Data.dll.config
