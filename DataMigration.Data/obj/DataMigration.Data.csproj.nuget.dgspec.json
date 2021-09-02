@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj": {}
+    "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj": {
+    "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj",
+        "projectUniqueName": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj",
         "projectName": "DataMigration.Data",
-        "projectPath": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj",
+        "projectPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj",
         "packagesPath": "C:\\Users\\kalisur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\obj\\",
+        "outputPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kalisur\\AppData\\Roaming\\NuGet\\NuGet.Config",

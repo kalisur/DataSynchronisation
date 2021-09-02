@@ -38,7 +38,7 @@ namespace DataMigration.Scheduler.Schedule
 
         public static void LoadUsers()
         {
-            string jsonFile = @"C:\Users\kalisur\Desktop\Job\DataMigration.Scheduler\Data\data.json";
+            string jsonFile = @"C:\RCOE\DataSynchronisation\DataMigration.Scheduler\Data\data.json";
             var json = File.ReadAllText(jsonFile);
             var jObject = JObject.Parse(json);
 
@@ -108,6 +108,7 @@ namespace DataMigration.Scheduler.Schedule
                         Console.WriteLine(ex.Message);
                     }
                 }
+                Console.WriteLine("Process Completed...!");
             }
             catch (Exception e)
             {
@@ -118,7 +119,7 @@ namespace DataMigration.Scheduler.Schedule
 
         public static void LoadDepartments()
         {
-            string jsonFile = @"C:\Users\kalisur\Desktop\Job\DataMigration.Scheduler\Data\depatment.json";
+            string jsonFile = @"C:\RCOE\DataSynchronisation\DataMigration.Scheduler\Data\depatment.json";
             var json = File.ReadAllText(jsonFile);
             var jObject = JObject.Parse(json);
 
@@ -166,7 +167,7 @@ namespace DataMigration.Scheduler.Schedule
                     }
 
                 }
-               
+                Console.WriteLine("Process Completed...!");
 
             }
             catch (Exception e)

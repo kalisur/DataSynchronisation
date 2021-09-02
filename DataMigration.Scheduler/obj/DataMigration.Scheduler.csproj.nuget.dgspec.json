@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj": {}
+    "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj": {
+    "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj",
+        "projectUniqueName": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj",
         "projectName": "DataMigration.Data",
-        "projectPath": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj",
+        "projectPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj",
         "packagesPath": "C:\\Users\\kalisur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\obj\\",
+        "outputPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kalisur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj": {
+    "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj",
+        "projectUniqueName": "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj",
         "projectName": "DataMigration.Scheduler",
-        "projectPath": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj",
+        "projectPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj",
         "packagesPath": "C:\\Users\\kalisur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Scheduler\\obj\\",
+        "outputPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kalisur\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj": {
-                "projectPath": "C:\\Users\\kalisur\\Desktop\\Job\\DataMigration.Data\\DataMigration.Data.csproj"
+              "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj": {
+                "projectPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj"
               }
             }
           }
