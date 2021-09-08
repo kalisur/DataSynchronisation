@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj": {}
+    "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj": {}
   },
   "projects": {
-    "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj": {
+    "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj",
         "projectName": "DataMigration.Data",
-        "projectPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj",
-        "packagesPath": "C:\\Users\\kalisur\\.nuget\\packages\\",
-        "outputPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\obj\\",
+        "projectPath": "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj",
+        "packagesPath": "C:\\Users\\ankboll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kalisur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ankboll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,21 +74,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj": {
+    "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj",
+        "projectUniqueName": "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj",
         "projectName": "DataMigration.Scheduler",
-        "projectPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj",
-        "packagesPath": "C:\\Users\\kalisur\\.nuget\\packages\\",
-        "outputPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Scheduler\\obj\\",
+        "projectPath": "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Scheduler\\DataMigration.Scheduler.csproj",
+        "packagesPath": "C:\\Users\\ankboll\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Scheduler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kalisur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ankboll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,8 +102,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj": {
-                "projectPath": "C:\\RCOE\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj"
+              "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj": {
+                "projectPath": "C:\\Users\\ankboll\\Documents\\Workspace\\DataSynchronisation\\DataMigration.Data\\DataMigration.Data.csproj"
               }
             }
           }
@@ -145,7 +145,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
