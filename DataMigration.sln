@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMigration.Data", "DataM
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataMigration.Scheduler", "DataMigration.Scheduler\DataMigration.Scheduler.csproj", "{AA846A84-E322-4278-B078-A6DD642A53B6}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataSyncJobs", "DataSyncJobs\DataSyncJobs.csproj", "{460EB415-C5C9-4CE5-804F-C137E8DE1520}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AA846A84-E322-4278-B078-A6DD642A53B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA846A84-E322-4278-B078-A6DD642A53B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA846A84-E322-4278-B078-A6DD642A53B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460EB415-C5C9-4CE5-804F-C137E8DE1520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460EB415-C5C9-4CE5-804F-C137E8DE1520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460EB415-C5C9-4CE5-804F-C137E8DE1520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460EB415-C5C9-4CE5-804F-C137E8DE1520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

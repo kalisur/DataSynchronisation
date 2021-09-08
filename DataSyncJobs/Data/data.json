@@ -1,0 +1,50 @@
+{
+  "coworker": [
+    {
+      "CoworkerCode": "177",
+      "FirstName": "David",
+      "LastName": "PrXXX",
+      "UserID": "@DAVIPRI",
+      "EmailAddress": "david.prior1@cdw.com",
+      "CoworkerGLDepartmentCode": "1",
+      "ManagerCoworkerCode": "6708",
+      "CoworkerTitleDescription": "Accounts Receivable Auditor"
+
+    },
+    {
+      "CoworkerCode": "305",
+      "FirstName": "Brent",
+      "LastName": "GrXXX",
+      "UserID": "BRENGRA",
+      "EmailAddress": "brent.grablachoff2@cdw.com",
+      "CoworkerGLDepartmentCode": "9",
+      "ManagerCoworkerCode": "381",
+      "CoworkerTitleDescription": "Website Integration Specialist"
+
+    },
+    {
+      "CoworkerCode": "S059",
+      "FirstName": "David",
+      "LastName": "HRSXXX",
+      "UserID": "DAVIHOE",
+      "EmailAddress": "davihoe@cdw.com",
+      "CoworkerGLDepartmentCode": "400",
+      "ManagerCoworkerCode": "1178",
+      "CoworkerTitleDescription": "Sr. Account Manager"
+
+    },
+    {
+      "CoworkerCode": "1777",
+      "FirstName": "steve",
+      "LastName": "PrXXX",
+      "UserID": "@steve",
+      "EmailAddress": "steve.prior1@cdw.com",
+      "CoworkerGLDepartmentCode": "1",
+      "ManagerCoworkerCode": "6708",
+      "CoworkerTitleDescription": "Accounts Receivable Auditor"
+
+    }
+  ]
+}
+  
+
