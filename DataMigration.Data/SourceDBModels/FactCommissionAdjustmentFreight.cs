@@ -10,7 +10,7 @@ namespace DataMigration.Data.SourceDBModels
         public string CompanyCode { get; set; }
         public string CoworkerCode { get; set; }
         public int CommissionMonth { get; set; }
-        public int DateAdjustment { get; set; }
+        public int DateAdjustmentInt { get; set; }
         public string InvoiceCode { get; set; }
         public int InvoiceLineNumber { get; set; }
         public int FreightAdjustmentNumber { get; set; }
@@ -25,10 +25,10 @@ namespace DataMigration.Data.SourceDBModels
         public decimal? PercentTotalWeightCost { get; set; }
         public decimal? GrossProfitAdjustmentDollarAmount { get; set; }
         public decimal? GrossProfitAdjustmentDollarAmountOriginal { get; set; }
-        public int CreatedDate { get; set; }
+        public int CreatedDateInt { get; set; }
         public string CoworkerCodeCreated { get; set; }
         public string ProgramCreated { get; set; }
-        public int ModifiedDate { get; set; }
+        public int ModifiedDateInt { get; set; }
         public string CoworkerCodeModified { get; set; }
         public string AccountManagerCoworkerCode { get; set; }
         public string Cdwstate { get; set; }

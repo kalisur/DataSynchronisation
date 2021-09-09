@@ -2,6 +2,10 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using DataMigration.Data.Models;
+using Azure.Identity;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Data.SqlClient;
+using Microsoft.Azure.Services.AppAuthentication;
 
 #nullable disable
 
@@ -9,6 +13,7 @@ namespace DataMigration.Data.Contex
 {
     public partial class ERPContext : DbContext
     {
+        public IConfiguration Configuration { get; }        
         public ERPContext()
         {
         }
@@ -16,6 +21,14 @@ namespace DataMigration.Data.Contex
         public ERPContext(DbContextOptions<ERPContext> options)
             : base(options)
         {
+            var conn = (Microsoft.Data.SqlClient.SqlConnection)Database.GetDbConnection();
+            conn.ConnectionString = Config.reportingDBConn; //  Configuration.GetConnectionString(Config.reportingDBConn);
+            var credential = new DefaultAzureCredential();
+            var token = credential
+                .GetToken(
+                    new Azure.Core.TokenRequestContext(new[] { "https://database.windows.net/.default" })
+                );
+            conn.AccessToken = token.Token;
         }
 
         public virtual DbSet<AccessLevel> AccessLevels { get; set; }
@@ -55,11 +68,25 @@ namespace DataMigration.Data.Contex
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
+
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Data Source=entrep-sqldb-cdw-usncz-dv-svr.database.windows.net;Initial Catalog=entrep-sqldb-cdw-usncz-dv-ReportingDB;Connect Timeout=30;Authentication=ActiveDirectoryIntegrated");
-            }
+
+            //var conn = (Microsoft.Data.SqlClient.SqlConnection)Database.GetDbConnection();           
+            //var opt = new DefaultAzureCredentialOptions() { ExcludeSharedTokenCacheCredential = true };
+            //var credential = new DefaultAzureCredential(opt);
+            //var token = credential
+            //        .GetToken(new Azure.Core.TokenRequestContext(
+            //            new[] { "https://database.windows.net/.default" }));
+            //conn.AccessToken = token.Token;
+            //optionsBuilder.UseSqlServer(conn);
+
+            //SqlConnection connection = new SqlConnection();
+            //connection.ConnectionString = Configuration.GetConnectionString(Config.reportingDBConn);
+            //var authTokenService = new AzureSqlAuthTokenService();
+            //connection.AccessToken = authTokenService.GetToken().Result;
+            //optionsBuilder.UseSqlServer(connection);
+            //optionsBuilder.UseSqlServer(Config.reportingDBConn);
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

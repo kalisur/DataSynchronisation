@@ -64,6 +64,7 @@ namespace DataMigration.Data.SourceDBModels
         public string CoworkerTitleGroupDescription { get; set; }
         public short? CoworkerPositionCode { get; set; }
         public int? OriginalServiceMonthCount { get; set; }
+        public DateTime? OriginalSalesStartDateTime { get; set; }
         public int? SalesServiceMonthCount { get; set; }
         public string EmploymentLevelCode { get; set; }
         public string EmploymentLevelDescription { get; set; }
