@@ -6,6 +6,10 @@ C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Releas
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\DataSyncJobs.deps.json
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\DataSyncJobs.runtimeconfig.json
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\DataSyncJobs.pdb
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Azure.Core.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Azure.Identity.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Data.SqlClient.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.EntityFrameworkCore.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -13,6 +17,7 @@ C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Releas
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Extensions.Configuration.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
@@ -21,6 +26,8 @@ C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Releas
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Extensions.Options.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Extensions.Primitives.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Identity.Client.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.IdentityModel.Logging.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\Microsoft.IdentityModel.Protocols.dll
@@ -33,6 +40,7 @@ C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Releas
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\System.Diagnostics.DiagnosticSource.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\System.Drawing.Common.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\System.Memory.Data.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\System.Runtime.Caching.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Continuous\DataSyncJobs\System.Security.Permissions.dll

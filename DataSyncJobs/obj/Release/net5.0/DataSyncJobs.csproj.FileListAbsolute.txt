@@ -138,3 +138,11 @@ C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Releas
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\ref\DataSyncJobs.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\DataSyncJobs.pdb
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\obj\Release\net5.0\DataSyncJobs.genruntimeconfig.cache
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\bin\Release\net5.0\Azure.Core.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\bin\Release\net5.0\Azure.Identity.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\bin\Release\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\bin\Release\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\bin\Release\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\bin\Release\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataSyncJobs\bin\Release\net5.0\System.Memory.Data.dll

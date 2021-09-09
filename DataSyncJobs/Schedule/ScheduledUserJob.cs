@@ -49,13 +49,13 @@ namespace DataSyncJobs.Schedule
                                        LastName = objCoworker.LastName,
                                        Email = objCoworker.EmailAddress,
                                        ReportingManagerId = objCoworker.ManagerCoworkerCode,
-                                       DepartmentId = objCoworker.CoworkerGldepartmentCode,
+                                       DepartmentId = objCoworker.CoworkerDepartmentCode,
                                        Designation = ""
                                    };
 
 
                 Console.WriteLine("users count: {0}", usersObjects.Count());
-                usersObjects = usersObjects.Skip(5000).Take(5);
+                usersObjects = usersObjects.Skip(6000).Take(5);
                 bool isExists = false;
                 foreach (var item in usersObjects)
                 {

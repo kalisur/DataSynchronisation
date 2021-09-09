@@ -7,7 +7,6 @@ namespace DataMigration.Data.SourceDBModels
 {
     public partial class DimensionProduct
     {
-        public int ItemSeq { get; set; }
         public string ItemCode { get; set; }
         public string ItemDescription { get; set; }
         public string CompanyCode { get; set; }
@@ -19,8 +18,6 @@ namespace DataMigration.Data.SourceDBModels
         public string ItemGroupMajorDescription { get; set; }
         public string ItemGroupMinorCode { get; set; }
         public string ItemGroupMinorDescription { get; set; }
-        public string ItemPlatformCode { get; set; }
-        public string ItemPlatformDescription { get; set; }
         public string BrandDescription { get; set; }
         public string PrimaryManufacturerCode { get; set; }
         public string PrimaryManufacturerDescription { get; set; }
@@ -30,10 +27,7 @@ namespace DataMigration.Data.SourceDBModels
         public string PurchaseOfficerName { get; set; }
         public string ManufacturerSegmentDescription { get; set; }
         public int? ManufacturerSegmentRank { get; set; }
-        public string OpportunityMatrixCategoryCode { get; set; }
-        public string OpportunityMatrixCategoryDescription { get; set; }
         public string ItemUvrcode { get; set; }
-        public string ItemUvrdescription { get; set; }
         public string ItemNonReturnableFlag { get; set; }
         public string ItemNonReturnableDescription { get; set; }
         public string ItemDropShipCode { get; set; }

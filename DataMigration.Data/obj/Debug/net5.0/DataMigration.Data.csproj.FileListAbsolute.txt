@@ -21,7 +21,6 @@ C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Debug\net5.0\DataMigration.Data.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Debug\net5.0\ref\DataMigration.Data.dll
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Debug\net5.0\DataMigration.Data.pdb
-C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.csproj.AssemblyReference.cache
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.AssemblyInfoInputs.cache
 C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Debug\net5.0\DataMigration.Data.AssemblyInfo.cs
