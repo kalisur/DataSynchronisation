@@ -1,0 +1,16 @@
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Release\net5.0\DataMigration.Data.dll.config
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Release\net5.0\DataMigration.Data.deps.json
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Release\net5.0\DataMigration.Data.runtimeconfig.json
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Release\net5.0\DataMigration.Data.runtimeconfig.dev.json
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Release\net5.0\DataMigration.Data.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Release\net5.0\ref\DataMigration.Data.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\bin\Release\net5.0\DataMigration.Data.pdb
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\DataMigration.Data.csproj.AssemblyReference.cache
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\DataMigration.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\DataMigration.Data.AssemblyInfoInputs.cache
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\DataMigration.Data.AssemblyInfo.cs
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\DataMigration.Data.csproj.CoreCompileInputs.cache
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\DataMigration.Data.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\ref\DataMigration.Data.dll
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\DataMigration.Data.pdb
+C:\Users\ankboll\Documents\Workspace\DataSynchronisation\DataMigration.Data\obj\Release\net5.0\DataMigration.Data.genruntimeconfig.cache

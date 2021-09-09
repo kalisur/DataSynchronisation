@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using DataMigration.Data.SourceDBModels;
-
+using Azure.Identity;
 #nullable disable
 
 namespace DataMigration.Data.Contex
@@ -16,6 +16,14 @@ namespace DataMigration.Data.Contex
         public SourceDBContext(DbContextOptions<SourceDBContext> options)
             : base(options)
         {
+            var conn = (Microsoft.Data.SqlClient.SqlConnection)Database.GetDbConnection();
+            conn.ConnectionString = Config.primaryDBConn; //  Configuration.GetConnectionString(Config.reportingDBConn);
+            var credential = new DefaultAzureCredential();
+            var token = credential
+                .GetToken(
+                    new Azure.Core.TokenRequestContext(new[] { "https://database.windows.net/.default" })
+                );
+            conn.AccessToken = token.Token;
         }
 
         public virtual DbSet<Aduser> Adusers { get; set; }
@@ -156,11 +164,20 @@ namespace DataMigration.Data.Contex
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
+
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("server=usnca-cdw-edw-sql-dev.database.windows.net;database=usnca-cdw-edw-sql-db-primary-dev;Authentication=ActiveDirectoryIntegrated;");
-            }
+
+            //var conn = (Microsoft.Data.SqlClient.SqlConnection)Database.GetDbConnection();
+            //var opt = new DefaultAzureCredentialOptions() { ExcludeSharedTokenCacheCredential = true };
+            //var credential = new DefaultAzureCredential(opt);
+            //var token = credential
+            //        .GetToken(new Azure.Core.TokenRequestContext(
+            //            new[] { "https://database.windows.net/.default" }));
+            //conn.AccessToken = token.Token;
+
+            //optionsBuilder.UseSqlServer(conn);
+           // optionsBuilder.UseSqlServer(Config.primaryDBConn);
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
